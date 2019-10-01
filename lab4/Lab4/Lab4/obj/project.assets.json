@@ -688,30 +688,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nurmi\\.nuget\\packages\\": {},
+    "C:\\Users\\fiff\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nurmi\\Source\\Repos\\sacrificedmoon\\lab4\\Lab4\\Lab4\\Lab4.csproj",
+      "projectUniqueName": "C:\\Users\\fiff\\Source\\Repos\\lab4\\lab4\\Lab4\\Lab4\\Lab4.csproj",
       "projectName": "Lab4",
-      "projectPath": "C:\\Users\\nurmi\\Source\\Repos\\sacrificedmoon\\lab4\\Lab4\\Lab4\\Lab4.csproj",
-      "packagesPath": "C:\\Users\\nurmi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nurmi\\Source\\Repos\\sacrificedmoon\\lab4\\Lab4\\Lab4\\obj\\",
+      "projectPath": "C:\\Users\\fiff\\Source\\Repos\\lab4\\lab4\\Lab4\\Lab4\\Lab4.csproj",
+      "packagesPath": "C:\\Users\\fiff\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\fiff\\Source\\Repos\\lab4\\lab4\\Lab4\\Lab4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\nurmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\fiff\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
