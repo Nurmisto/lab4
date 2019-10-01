@@ -1,0 +1,11 @@
+C:\Users\nurmi\Source\Repos\sacrificedmoon\lab4\Lab4\Lab4\bin\Debug\netcoreapp2.1\Lab4.deps.json
+C:\Users\nurmi\Source\Repos\sacrificedmoon\lab4\Lab4\Lab4\bin\Debug\netcoreapp2.1\Lab4.runtimeconfig.json
+C:\Users\nurmi\Source\Repos\sacrificedmoon\lab4\Lab4\Lab4\bin\Debug\netcoreapp2.1\Lab4.runtimeconfig.dev.json
+C:\Users\nurmi\Source\Repos\sacrificedmoon\lab4\Lab4\Lab4\bin\Debug\netcoreapp2.1\Lab4.dll
+C:\Users\nurmi\Source\Repos\sacrificedmoon\lab4\Lab4\Lab4\bin\Debug\netcoreapp2.1\Lab4.pdb
+C:\Users\nurmi\Source\Repos\sacrificedmoon\lab4\Lab4\Lab4\obj\Debug\netcoreapp2.1\Lab4.csprojAssemblyReference.cache
+C:\Users\nurmi\Source\Repos\sacrificedmoon\lab4\Lab4\Lab4\obj\Debug\netcoreapp2.1\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\nurmi\Source\Repos\sacrificedmoon\lab4\Lab4\Lab4\obj\Debug\netcoreapp2.1\Lab4.AssemblyInfoInputs.cache
+C:\Users\nurmi\Source\Repos\sacrificedmoon\lab4\Lab4\Lab4\obj\Debug\netcoreapp2.1\Lab4.AssemblyInfo.cs
+C:\Users\nurmi\Source\Repos\sacrificedmoon\lab4\Lab4\Lab4\obj\Debug\netcoreapp2.1\Lab4.dll
+C:\Users\nurmi\Source\Repos\sacrificedmoon\lab4\Lab4\Lab4\obj\Debug\netcoreapp2.1\Lab4.pdb
