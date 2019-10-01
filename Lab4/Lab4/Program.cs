@@ -7,7 +7,13 @@ namespace Lab4
     {
         static void Main(string[] args)
         {
-           
+
+            Player player = new Player();
+
+            player.playerCurrentHealth = player.PlayerSTARTHEALTH;
+
+
+
         }
     }
 }
